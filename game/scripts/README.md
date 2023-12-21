@@ -1,0 +1,1 @@
+Place scripts here. If it isn't related to the project, **don't send it.** If you would like to use scripts someone has sent you, backpack the scripts from the PMP file and transfer it to another project.
